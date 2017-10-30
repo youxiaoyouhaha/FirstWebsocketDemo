@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="FirstWebsocketDemo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.yifen.websocket.war">
+      <element id="artifact" artifact-name="FirstWebsocketDemo:war exploded" />
+    </root>
+  </artifact>
+</component>
